@@ -13,3 +13,6 @@ end
 s = Square.new(5)
 
 p s.area# git
+
+
+# Leif this code is awesome
